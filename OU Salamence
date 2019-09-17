@@ -37,7 +37,7 @@ IVs: 30 Atk
 
 Hawlucha @ Electric Seed  
 Ability: Unburden  
-EVs: 100 HP / 252 Atk / 156 SpD  
+EVs: 100 HP / 252 Atk / 156 Spe  
 Adamant Nature  
 - Acrobatics  
 - Swords Dance  
@@ -46,7 +46,7 @@ Adamant Nature
 
 Latias-Mega (F) @ Latiasite  
 Ability: Levitate  
-EVs: 252 HP / 4 Def / 252 SpD  
+EVs: 252 HP / 4 Def / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Calm Mind  
